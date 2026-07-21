@@ -1,7 +1,5 @@
 # análisis-datos-TFG
 
-# análisis-datos-TFG
-
 Scripts de Python usados en el análisis de datos experimentales de mi Trabajo de Fin de Grado (Física, USC), centrado en la caracterización de micelas de copolímero de bloque (E33S14E33 y E38S10E38) y su interacción con proteínas plasmáticas (BSA y fibrinógeno).
 
 ## Qué hay aquí
