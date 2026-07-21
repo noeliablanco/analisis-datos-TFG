@@ -66,6 +66,5 @@ ax.text(0.95,0.95,'h)', transform=ax.transAxes, ha='right', va='top', fontsize=1
 
 #plt.title('E$_{38}$S$_{10}$E$_{38}$ en tampón fosfato pH 7,4', fontsize=15)
 plt.tight_layout()
-carpeta = os.path.dirname(filepath)
-plt.savefig(os.path.join(carpeta,'histograma_micelas.png'), dpi=150, bbox_inches='tight')
+plt.savefig('../figuras/histograma_micelas.png', dpi=150, bbox_inches='tight')
 plt.show()
