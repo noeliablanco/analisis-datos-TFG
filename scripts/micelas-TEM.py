@@ -9,7 +9,7 @@ from scipy.optimize import curve_fit
 import pandas as pd
 import os
 
-filepath = r'C:/Users/NOELIA/Desktop/Programas python/E384.5.txt'
+filepath = '../data/E384.5.txt'
 
 # el txt a veces trae cabecera y a veces no, así que miro la primera fila
 with open(filepath, 'r') as f:
